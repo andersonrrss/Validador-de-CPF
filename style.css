@@ -1,0 +1,32 @@
+body {
+    background-color: brown;
+    align-content: center;
+    text-align: center;
+    font: normal 17px arial;
+    padding: 10px;
+}
+
+section {
+    width: 30em;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.842);
+}
+#txtcpf{
+    border: none;
+    border-radius: 3px;
+    background-color: #e3ebf1;
+    padding: 3px;
+}
+#credits{
+    width: 120px;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-weight: 500;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.842);
+    margin: auto;
+    margin-top: 30px;
+}
